@@ -54,7 +54,7 @@ This project analyzes transactional sales data from a coffee shop to uncover pat
 
 The dashboard consolidates all key metrics into a single view: 4 KPI cards at the top (Total Orders, Total Sales, Average Order Value, Coffee Items Sold), followed by monthly trends (orders and revenue), product performance by both order volume and revenue, orders by day of week, and breakdowns by shift and payment method.
 
-*(Add a screenshot of the dashboard here, e.g. `![alt text](image-1.png)`)*
+<img width="772" height="657" alt="image" src="https://github.com/user-attachments/assets/452b2a02-853a-41e1-bed4-aa3463389a36" />
 
 ---
 
